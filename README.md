@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1ksfps
+- 👋 Hi, I’m @ScripTeks
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently learning HTML,JavaScript,css,
 - 💞️ I’m looking to collaborate on ...
