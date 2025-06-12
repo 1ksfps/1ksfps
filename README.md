@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1ksfps
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML,JAVA,css,pyhton 
+- 🌱 I’m currently learning HTML,JavaScript,css,
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me : 
 
